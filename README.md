@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I'm a Software Engineer | Data Science Enthusiast  | based in Warangal. Welcome to my GitHub profile!
+
+## 🚀 Profile Highlights:
+
+- Languages & Tools:
+  - [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+  - [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  - [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)](https://reactjs.org/)
 <!--
 **Keerthana20402/Keerthana20402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
