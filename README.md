@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a Software Engineer | Data Science Enthusiast  | based in Warangal. Welcome to my GitHub profile!
+ Software Engineer | DevOps & AWS Enthusiast | Data Science |  based in Hyderabad. Welcome to my GitHub profile!
 
 ## 🚀 Profile Highlights:
 Data Science Badges
@@ -15,6 +15,12 @@ Data Science Badges
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)](https://numpy.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)](https://www.jenkins.io/)
+[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)](https://www.terraform.io/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://www.linux.org/)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
 
 
 **Keerthana20402/Keerthana20402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,7 +28,7 @@ Data Science Badges
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on data science...
-- 🌱 I’m currently learning data science,aws,cryptography...
+- 🌱 I’m currently learning data science,aws,Devops,Terraform, Jenkins,Kubernetes,linux,cryptography...
 - 👯 I’m looking to collaborate on technical industries...
 - 🤔 I’m looking for help with to developing multi technologies tools...
   
