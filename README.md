@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there I'm Keerthana👋
 
  Software Engineer | DevOps & AWS Enthusiast | Data Science |  based in Hyderabad. Welcome to my GitHub profile!
 
@@ -15,7 +15,13 @@ Data Science Badges
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)](https://numpy.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+AWS Badges
 [![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![AWS VPC](https://img.shields.io/badge/AWS%20VPC-FF9900?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/vpc/)
+[![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/ec2/)
+[![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?logo=amazon-s3&logoColor=white)](https://aws.amazon.com/s3/)
+[![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=awslambda&logoColor=white)](https://aws.amazon.com/lambda/)
+DevOps Badges
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)](https://www.jenkins.io/)
@@ -24,9 +30,9 @@ Data Science Badges
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
 
 
-**Keerthana20402/Keerthana20402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+
 
 - 🔭 I’m currently working on data science...
 - 🌱 I’m currently learning data science,aws,Devops,Terraform, Jenkins,Kubernetes,linux,cryptography...
